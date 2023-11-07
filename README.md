@@ -1,6 +1,6 @@
 <!-- # ⭕ Tic-Tac-Toe -->
 
-My discord: AnDerio
+My discord: anderio_ua
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
